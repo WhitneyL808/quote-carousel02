@@ -19,6 +19,16 @@ const data = [
     quote: `“We'll be ok now.”`, 
     emoji: '👌', 
     image: `url(assets/forest.jpg)`
+  },
+  {
+    quote: `“It's a good day to be an Eag”`, 
+    emoji: '🦅', 
+    image: `url(assets/swoop4.jpeg)`
+  },
+  {
+    quote: `“Lets go EAGS!!!”`, 
+    emoji: '👺', 
+    image: `url(assets/swoop5.png)`
   }
 ];
 
